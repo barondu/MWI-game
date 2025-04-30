@@ -14,3 +14,6 @@ http://www.cs.nott.ac.uk/~pszja/cpp/CPPHallOfFame/halloffame.html?id=36352
 
 Game zip File:
 http://www.cs.nott.ac.uk/~pszja/cpp/CPPHallOfFame/bairuidu/mwi.zip
+
+## Illustration
+![image](https://github.com/user-attachments/assets/ac347275-11c3-4b8b-8177-b7d093debd34)
